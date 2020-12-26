@@ -1,0 +1,1 @@
+# 67.ileri-seviye-mssql-oracle-sql-bootcamp
