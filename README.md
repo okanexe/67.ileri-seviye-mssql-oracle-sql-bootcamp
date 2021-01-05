@@ -1,4 +1,4 @@
-<h2><i>67.ileri-seviye-mssql-oracle-sql-bootcamp</i></h2></br>
+<h2><i>67.ileri-seviye-mssql-oracle-sql-bootcamp-SQL-SERVER </i></h2></br>
 
 Tables for data içerisindeki temel verilerden random olarak migros, şok vb gibi alışveriş marketlerinden yapılmış random bir veri seti oluşturuldu.</br>
 
