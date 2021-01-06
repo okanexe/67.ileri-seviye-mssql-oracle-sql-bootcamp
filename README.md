@@ -11,4 +11,7 @@ faturaKod'ları sıfırdan başlatıldı fakat istenirse daha gerçekçi olması
 daha ayrıntılı bilgiler almak ve SQL ile ilgili kapsamlı bilgiler edinmek isterseniz yararlandığım kaynağı sizlerle paylaşmak isterim.</br>
 <a href="https://gelecegiyazanlar.turkcell.com.tr/konu/microsoft-sql-server">SQL SERVER EĞİTİMİ</a> </br>
 
+SQL Server ile ilgili notlarım ve yazılarım için medium yazılarımı takip edebilirsiniz.</br>
+<a href="https://okanexe.medium.com/"></a></br>
+
 eklemeler ve düzenlemeler yapmaya devam edeceğim.
